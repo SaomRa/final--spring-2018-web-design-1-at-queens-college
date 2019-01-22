@@ -1,4 +1,4 @@
-# Final | Web Design I | Art Department | Queens College | Fall 2018
+# Final | Web Design I | Art Department | Queens College | Spring 2018
 For your final project, you are to implement a web site rendition of the designs you created for the midterm. This web site should be a full implementation of your midterm designs, complete with working links, valid content, and responsive versions of all pages.
 
 ## Instructions
